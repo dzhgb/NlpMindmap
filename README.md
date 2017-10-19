@@ -1,8 +1,8 @@
 # NlpMindmap
 
-`Learning *Natural Language Processing* with Mindmap.`
+`Learning Natural Language Processing with Mindmap.`
 
-`用思维导图学*自然语言处理*`
+`用思维导图学自然语言处理`
 
 <div align=center>
 
