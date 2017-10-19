@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![NLP](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp.png "NLP")
+![NLP](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp.jpg "NLP")
 
 </div>
 
