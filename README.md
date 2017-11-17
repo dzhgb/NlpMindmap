@@ -12,7 +12,7 @@
 
 ## 学习笔记——NLP汉语自然语言处理
 
-![nlp_cn](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/0.jpg "nlp_cn")
+![nlp_cn](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/0.png "nlp_cn")
 
 ### 推荐序
 
