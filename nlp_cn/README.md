@@ -40,8 +40,14 @@
 
 ### 4-4.隐马尔可夫模型
 
+![nlp_cn_4-4](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/4-4.png "nlp_cn")
+
 ### 4-5.最大熵模型
 
+![nlp_cn_4-5](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/4-5.png "nlp_cn")
+
 ### 4-6.条件随机场模型
+
+![nlp_cn_4-6](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/4-6.png "nlp_cn")
 
 ## 5.词性、语块与命名实体识别

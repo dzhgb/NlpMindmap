@@ -10,7 +10,7 @@
 
 </div>
 
-## [学习笔记——NLP汉语自然语言处理](https://github.com/Decalogue/NlpMindmap/tree/master/nlp_cn)
+## [学习笔记——NLP汉语自然语言处理 👆](https://github.com/Decalogue/NlpMindmap/tree/master/nlp_cn)
 
 ![nlp_cn](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/0.png "nlp_cn")
 
