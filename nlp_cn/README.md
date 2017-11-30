@@ -51,3 +51,21 @@
 ![nlp_cn_4-6](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/4-6.png "nlp_cn")
 
 ## 5.词性、语块与命名实体识别
+
+![nlp_cn_5](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/5.png "nlp_cn")
+
+### 5-1.汉语词性标注
+
+![nlp_cn_5-1](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/5-1.png "nlp_cn")
+
+### 5-2.语义组块标注
+
+![nlp_cn_5-2](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/5-2.png "nlp_cn")
+
+### 5-3.命名实体识别
+
+![nlp_cn_5-3](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/5-3.png "nlp_cn")
+
+## 6.句法理论与自动分析
+
+![nlp_cn_6](https://github.com/Decalogue/NlpMindmap/blob/master/img/nlp_cn/6.png "nlp_cn")
