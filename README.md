@@ -24,9 +24,14 @@
 
 ![note_3](https://github.com/Decalogue/NlpMindmap/blob/master/img/Speech_and_Language_Processing/0.png "Speech_and_Language_Processing")
 
+
 ## 二、算法模型
 
+### [Capsule](https://github.com/Decalogue/NlpMindmap/tree/master/model/capsule)
+
+
 ## 三、常见笔试/面试题
+
 
 ## 四、从小白到专家的成长之路
 
