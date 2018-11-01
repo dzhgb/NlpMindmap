@@ -24,10 +24,15 @@
 ### [Capsule](https://github.com/Decalogue/NlpMindmap/tree/master/model/capsule)
 
 
-## 三、常见笔试/面试题
+## 三、相关推荐
 
+### [Python](https://github.com/Decalogue/PythonMindmap)
 
-## 四、从小白到专家的成长之路
+### [算法基础](https://github.com/Decalogue/AlgorithmMap)
+
+### [AI 基础工具集合](https://github.com/Decalogue/ai)
+
+### [AI 比赛](https://github.com/Decalogue/AI_Competition)
 
 
 `Copyright © 2017 Decalogue. All Rights Reserved.`
