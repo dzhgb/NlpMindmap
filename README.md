@@ -14,9 +14,9 @@
 
 ### [NLP 汉语自然语言处理](https://github.com/Decalogue/NlpMindmap/tree/master/notes/nlp_cn)
 
-### [Python 自然语言处理实战 👆](https://github.com/Decalogue/NlpMindmap/tree/master/notes/NLP_Core_Technology_and_Algorithm_with_Python)
+### [Python 自然语言处理实战](https://github.com/Decalogue/NlpMindmap/tree/master/notes/NLP_Core_Technology_and_Algorithm_with_Python)
 
-### [自然语言处理综论 👆](https://github.com/Decalogue/NlpMindmap/tree/master/notes/Speech_and_Language_Processing)
+### [自然语言处理综论](https://github.com/Decalogue/NlpMindmap/tree/master/notes/Speech_and_Language_Processing)
 
 
 ## 二、算法模型
